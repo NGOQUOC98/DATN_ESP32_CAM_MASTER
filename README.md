@@ -3,9 +3,9 @@
 
 ### Schematics
 
-[![SCHEMATIC REVIEW](assets/schematic.png)](sche/PCB_MASTER.pdf)
+![SCHEMATIC REVIEW](assets/schematic.png)
 ### 3D
 
-#### Top side
+#### Top 3d
 
 ![3D REVIEW](assets/top_3d.png)
