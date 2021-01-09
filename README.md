@@ -3,9 +3,7 @@
 
 ### Schematics
 
-![SCHEMATIC REVIEW](assets/schematic.png)
+![SCHEMATIC REVIEW](assets/schematic.PNG)
 ### 3D
 
-#### Top 3d
-
-![3D REVIEW](assets/top_3d.png)
+![3D REVIEW](assets/top_3d.PNG)
